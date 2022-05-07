@@ -126,6 +126,9 @@
 <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AminuMado&&theme=react&&hide_border=true"
+/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminuMado&layout=compact&hide=css,html)
 
