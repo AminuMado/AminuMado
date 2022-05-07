@@ -123,9 +123,12 @@
 
 # 📈 Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AminuMado&show_icons=true&theme=react&&hide_border=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AminuMado&&theme=react&&hide_border=true"
-/>
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminuMado&layout=compact&hide=css,html)
+
+![Aminu's github stats](https://github-readme-stats.vercel.app/api?username=AminuMado&count_private=true&show_icons=true&theme=onedark)
+
+</details>
